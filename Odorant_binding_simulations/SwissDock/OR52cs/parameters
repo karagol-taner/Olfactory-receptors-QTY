@@ -1,0 +1,9 @@
+Date: Thu 01 Aug 2024 07:34:11 
+Ligand: CCCCCCCC([O-])=O
+Method: AC
+Target: OR52cs_999c8_unrelaxed_rank_001_alphafold2_ptm_model_3_seed_000.pdb
+Sampling exhaustivity: 90
+Cavity prioritization: 70
+Random Initial Conditions: 2
+Box size: 40 35 30
+Box center: 8.0 -4.0 -14.0
