@@ -1,9 +1,0 @@
-Date: Wed 31 Jul 2024 18:51:31 
-Ligand: CCCCCCCC([O-])=O
-Method: AC
-Target: AF-Q9P1Q5-F1-model_v4.pdb
-Sampling exhaustivity: 90
-Cavity prioritization: 70
-Random Initial Conditions: 3
-Box size: 35 28 35
-Box center: -10.0 -2.0 15.0
